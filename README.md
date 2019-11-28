@@ -1,2 +1,2 @@
 # gtc
-A GUI interface for tc netem
+A gui for the tc netem which is inspired from [tcgui](https://github.com/tum-lkn/tcgui).
